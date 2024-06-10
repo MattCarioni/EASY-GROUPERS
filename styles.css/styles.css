@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+   }
+   header {
+    text-align: center;
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px;
+   }
+   main {
+    max-width: 800px;
+    margin: 0 auto;
+   }
+   h1 {
+    font-size: 28px;
+    color:#007BFF;
+   }
+   h2 {
+    color: #007BFF;
+   }
+   p {
+    color:brown;
+   }
+   ul {
+    text-align: center;
+    font-size: 18px;
+   }
+   button {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+   }   
