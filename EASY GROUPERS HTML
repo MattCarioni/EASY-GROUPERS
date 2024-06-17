@@ -3,23 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EASY GROUPERS</title>
-    <link rel="icon" type="image/x-icon" href="plink.jpg">
+    <title>EASY GROUPER</title>
+    <link rel="icon" type="image/x-icon" href="easygrouperlogo.png">
     <link rel="stylesheet" href="styles.css/styles.css">
 </head>
 <div style="text-align: center;">
-    <img src="plink.jpg" style="margin: 0 auto;" alt="Imagem Centralizada">
+    <img src="./assets/easygrouperlogo.png" style="width:300px;height:300px;" alt="Logo Easy Grouper">
 </div>
 
 <style>
-    body{background-color: yellow;}
+    body{background-color: white;}
 </style>
-<h1 style="text-align:center;">EASY GROUPERS (TEMP)</h1>
+<h1 style="text-align:center;">EASY GROUPER</h1>
 <p style="text-align:center;">Encontre um time para seu jogo </p>
 <hr>
 <body>
     <h1 style="text-align:center;">Problema: </h1>
-    <p style="text-align:center;">A Maioria dos jogos não possui um formador de equipes eficiente, que resulta nos jogadores tendo que recorrer a plataformas online</p>
+    <p style="text-align:center;">A Maioria dos jogos não possui um formador de equipes eficiente, que resulta nos jogadores tendo que recorrer a diversas plataformas online</p>
     <hr> 
     <h1 style="text-align:center;">Nicho: </h1>
     <p style="text-align:center;">Adolescentes e Adultos que frequentam estes ambientes online</p>
@@ -39,10 +39,10 @@
     <p style="text-align:center;">MATHEUS CARIONI</p>
     <hr>
     <h1 style="text-align:center;">Recursos e Tecnologias Utilizados: </h1>
-    <p style="text-align:center;">HTML, CSS</p>
+    <p style="text-align:center;">HTML,CSS</p>
    <hr>
      <footer>
-        <p>©EASY GROUPERS 2024- Para mais informações entre em contato: (48)999994673</p>
+        <p>©EASY GROUPER 2024- Para mais informações entre em contato: (48)999994673</p>
      </footer>
 </body>
 </html>
