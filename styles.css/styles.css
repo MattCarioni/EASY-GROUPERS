@@ -1,5 +1,5 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'Roboto', sans-serif;
     background-color: #f4f4f4;
     color: #333;
    }
@@ -15,13 +15,13 @@ body {
    }
    h1 {
     font-size: 28px;
-    color:#007BFF;
+    color:black;
    }
    h2 {
-    color: #007BFF;
+    color: black;
    }
    p {
-    color:brown;
+    color:red;
    }
    ul {
     text-align: center;
@@ -34,3 +34,6 @@ body {
     border: none;
     cursor: pointer;
    }   
+   li {
+    color:black
+   }
