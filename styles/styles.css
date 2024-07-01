@@ -1,0 +1,42 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    color: #333;
+   }
+   header {
+    text-align: center;
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px;
+   }
+   main {
+    max-width: 800px;
+    margin: 0 auto;
+   }
+   h1 {
+    font-size: 28px;
+    color:black;
+   }
+   h2 {
+    color: black;
+   }
+   p {
+    color:red;
+   }
+   ul {
+    text-align: center;
+    font-size: 18px;
+   }
+   button {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+   }   
+   li {
+    color:black
+   }
+   footer {
+    background-color: white;
+   }
